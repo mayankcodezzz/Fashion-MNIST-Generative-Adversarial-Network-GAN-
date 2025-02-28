@@ -1,4 +1,6 @@
 # Fashion-MNIST Generative Adversarial Network (GAN)
+![__results___20_0](https://github.com/user-attachments/assets/d7dc1d80-204c-4671-a02a-2c50e771b589)
+
 
 The **"Fashion-MNIST Generative Adversarial Network (GAN)"** project focuses on developing a GAN to generate realistic images of fashion items, such as clothing and accessories, by training on the Fashion-MNIST dataset. This dataset comprises 60,000 28x28 grayscale images of 10 fashion categories, including T-shirts, trousers, and dresses.
 
